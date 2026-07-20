@@ -159,12 +159,12 @@ export default function Home() {
               <dd>Projects delivered</dd>
             </div>
             <div>
-              <dt>5</dt>
-              <dd>Flow-computer layers</dd>
+              <dt>20+</dt>
+              <dd>End-to-end products</dd>
             </div>
             <div>
-              <dt>01</dt>
-              <dd>End-to-end owner</dd>
+              <dt>5+</dt>
+              <dd>Apps delivered</dd>
             </div>
           </dl>
         </div>
