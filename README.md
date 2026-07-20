@@ -4,7 +4,7 @@ Single-page portfolio for Muhammad Mateen, an Embedded & Industrial Metering Eng
 
 ## Live portfolio
 
-- [GitHub Pages](https://mateen-pro.github.io/mateen.github.io/)
+- [GitHub Pages](https://mateen-pro.github.io/)
 
 ## Portfolio scope
 
