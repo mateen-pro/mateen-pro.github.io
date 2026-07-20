@@ -2,6 +2,10 @@
 
 Single-page portfolio for Muhammad Mateen, an Embedded & Industrial Metering Engineer, Firmware + IoT Application Developer, Team Lead and Technical Liaison.
 
+## Live portfolio
+
+- [GitHub Pages](https://mateen-pro.github.io/mateen.github.io/)
+
 ## Portfolio scope
 
 - Industrial Flow Computer architecture: custom I/O, Yocto ARM64, C++17, metrology, SQLite, REST/WebSocket and operator UI
