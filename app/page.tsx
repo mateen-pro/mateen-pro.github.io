@@ -106,7 +106,8 @@ export default function Home() {
         <nav aria-label="Primary navigation">
           <a href="#work">Systems</a>
           <a href="#journey">Journey</a>
-          <a href="mailto:mateenpro23@gmail.com?subject=Resume%20Request">Résumé</a>
+          <a className="nav-file" href="https://drive.google.com/file/d/1ATfaB-9yPoFld_mkHZQgU9oCX_rxgGKU/view?usp=sharing" target="_blank" rel="noreferrer">Résumé</a>
+          <a className="nav-file" href="https://drive.google.com/file/d/1LUPFjYMNkQsZvQNuKgbPPVPCWu_amTeF/view?usp=sharing" target="_blank" rel="noreferrer">CV</a>
           <a
             className="nav-cta"
             href="https://www.linkedin.com/in/mateenpro"
@@ -562,7 +563,7 @@ std::atomic_store(&amp;live, std::move(next));</code></pre>
         <div className="contact-actions">
           <a className="button button-primary" href="mailto:mateenpro23@gmail.com">Email Muhammad <span aria-hidden="true">↗</span></a>
           <a className="button button-ghost" href="https://www.linkedin.com/in/mateenpro" target="_blank" rel="noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
-          <a className="button button-ghost" href="mailto:mateenpro23@gmail.com?subject=CV%20Request">Request CV <span aria-hidden="true">↓</span></a>
+          <a className="button button-ghost" href="https://drive.google.com/file/d/1LUPFjYMNkQsZvQNuKgbPPVPCWu_amTeF/view?usp=sharing" target="_blank" rel="noreferrer">Detailed CV <span aria-hidden="true">↗</span></a>
         </div>
         <div className="contact-meta"><span>Lahore, Pakistan</span><span>mateenpro23@gmail.com</span><span>English · Urdu</span></div>
       </section>
